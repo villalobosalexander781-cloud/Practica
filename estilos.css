@@ -1,0 +1,25 @@
+.contenedor{
+    background-color: antiquewhite;
+    padding: 1px;
+    margin: 1px;
+    border: 3px solid black ;
+    display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+   flex-direction: column;
+}
+.caja{
+background-color: antiquewhite;
+font-size: 25px;
+padding: 1px;
+border: 3px solid rebeccapurple;
+margin:5px;
+/*width: 400px;
+height: 500px;*/
+text-align: center;
+text-transform: capitalize;
+text-shadow: 4px 4px 6px red;  
+text-decoration: underline blue dotted;
+
+/*para que no afecte*/
+}
